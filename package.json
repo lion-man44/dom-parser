@@ -1,5 +1,5 @@
 {
-  "name": "dom-parser",
+  "name": "@orange-lion/dom-parser",
   "version": "0.0.1",
   "description": "this package is dom parse from string.",
   "main": "dom_parser.js",
