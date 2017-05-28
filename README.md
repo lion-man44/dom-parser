@@ -4,13 +4,13 @@ Simple is best!
 
 # Installation
 
-```bash
+```zsh
 $ npm i --save @orange-lion/dom-parser
 ```
 
 # Usage
 
-```
+```js
 const toHTML = require('@orange-lion/dom-parser');
 
 const html = toHTML(`
@@ -21,7 +21,7 @@ const html = toHTML(`
 //=> HTMLElement
 ```
 
-```
+```js
 import toHTML from '@orange-lion/dom-parser';
 
 const html = toHTML(`
